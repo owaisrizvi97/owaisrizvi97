@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Various Devops projects as part of organizational responsibilities as well as open sourced collaborations on multiple kubernetes controllers/operators.**
 
-- 💬 Ask me about **Ask me about DevOps, Cloud Computing (AWS, GCP, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++**
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, GCP, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++**
 
 - 📫 How to reach me **owaisali358@gmail.com**
 
