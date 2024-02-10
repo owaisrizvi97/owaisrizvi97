@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Owais Ali</h1>
+<h1 align="center">Hi 👋, I'm Owais </h1>
 <h3 align="center">A passionate Cloud-native & Devops Expert</h3>
 
 - 🔭 I’m currently working on **Various Devops projects as part of organizational responsibilities as well as open sourced collaborations on multiple kubernetes controllers/operators.**
